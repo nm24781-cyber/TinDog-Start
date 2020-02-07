@@ -1,8 +1,8 @@
 body {
     font-family: Montserrat, sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    }
+    h1,h2,h3,h4,h5, h6 {
     font-family: Montserrat, sans-serif;
 }
 
@@ -15,6 +15,7 @@ h2 {
 /*headings*/
 
 .big-heading {
+    text-align: left;
     font-weight: 900;
     font-size: 3.5rem;
     line-height: 1.5;
@@ -74,7 +75,6 @@ h2 {
 /*section features*/
 #features {
     background-color: white;
-    text-align: center;
     padding: 10% 15% 15% 10%;
     position: relative;
 }
@@ -108,7 +108,6 @@ h2 {
     line-height: 1.5;
 }
 #testimonials {
-    text-align: center;
     background-color: #ef8172;
     color: white;
 }
@@ -125,7 +124,6 @@ h2 {
 
 #press {
     background-color: #ef8172;
-    text-align: center;
     padding-bottom: 3%;
 }
 
@@ -140,7 +138,6 @@ h2 {
 }
 #pricing {
     padding: 100px;
-    text-align: center;
 }
 
 .pricing-col {
@@ -161,7 +158,6 @@ h2 {
 /*cta at bottom of page*/
 #cta {
     background-color: #ff4c68;
-    text-align: center;
 }
 
 .bottom-heading {
@@ -178,7 +174,6 @@ h2 {
 
 #footer {
     margin: 3%;
-    text-align: center;
 }
 
 .properties {
